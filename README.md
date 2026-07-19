@@ -2,8 +2,6 @@
 
 > A modern developer portfolio showcasing my projects, skills, and journey as a frontend developer.
 
-![A.D Studios Preview](https://raw.githubusercontent.com/aaditdahiya/ad-studios/main/preview.png)
-
 ## 🌐 Live Website
 
 https://aaditstudios.netlify.app
